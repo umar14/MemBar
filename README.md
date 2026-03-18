@@ -35,7 +35,7 @@ Click the indicator to open a detail popover:
 ## Quick start
 
 ```bash
-git clone https://github.com/your-username/MemBar
+git clone https://github.com/umar14/MemBar
 cd MemBar
 chmod +x build.sh
 ./build.sh          # compile → run immediately
@@ -44,7 +44,7 @@ chmod +x build.sh
 ## Install as a login item (auto-start on login)
 
 ```bash
-git clone https://github.com/your-username/MemBar
+git clone https://github.com/umar14/MemBar
 cd MemBar
 chmod +x build.sh
 ./build.sh install
